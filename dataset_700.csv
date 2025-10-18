@@ -1,0 +1,716 @@
+
+opis_problema,klasa
+Želim da izračunam najmanju cenu putovanja kroz graf,Dijkstra
+Moram da izračunam optimalan put od starta do cilja u težinskom grafu,Dijkstra
+Želim da pronađem najkraći put između dva grada na mapi,Dijkstra
+Moram da izračunam najkraći put sa nenegativnim težinama,Dijkstra
+Moram da izračunam optimalan put od izvora do svih ostalih čvorova,Dijkstra
+Kako da izračunam najkraću rutu između čvorova u težinskom grafu,Dijkstra
+Treba mi algoritam koji pronalazi najkraće rastojanje od izvora,Dijkstra
+Moram da nađem najkraće puteve od jednog izvora,Dijkstra
+Treba mi algoritam za pronalaženje najkraćih puteva u grafu sa pozitivnim težinama,Dijkstra
+Kako da pronađem najbrži put kroz graf sa pozitivnim težinama,Dijkstra
+Želim da optimizujem rutu između dva čvora u mreži,Dijkstra
+Moram da nađem najjeftiniji put u grafu sa cenama,Dijkstra
+Kako da pronađem najkraće rastojanje od izvora do svih čvorova,Dijkstra
+Treba mi algoritam za najkraće puteve sa nenegativnim ivicama,Dijkstra
+Želim da nađem put sa minimalnim troškom u grafu,Dijkstra
+Kako da izračunam najkraće rute od jednog izvora,Dijkstra
+Moram da pronađem najkraću putanju u težinskom grafu,Dijkstra
+Treba mi algoritam koji minimizuje cenu putovanja kroz mrežu,Dijkstra
+Kako da optimizujem rute u transportnoj mreži,Dijkstra
+Želim da pronađem najbrži put između lokacija sa pozitivnim rastojanjima,Dijkstra
+Moram da izračunam najkraće puteve u grafu sa pozitivnim težinama ivica,Dijkstra
+Kako da nađem put sa najmanjim troškom u težinskom grafu,Dijkstra
+Treba mi algoritam za optimalne rute od jednog izvora,Dijkstra
+Želim da minimiziram cenu povezivanja dva čvora,Dijkstra
+Kako da pronađem najkraću putanju sa pozitivnim ivicama,Dijkstra
+Moram da optimizujem troškove putovanja kroz graf,Dijkstra
+Treba mi algoritam za najkraće rastojanje sa pozitivnim težinama,Dijkstra
+Kako da izračunam najjeftiniju rutu između čvorova,Dijkstra
+Želim da pronađem minimalne troškove putovanja od izvora,Dijkstra
+Moram da nađem najkraće puteve u grafu sa cenom ivica,Dijkstra
+Optimalna ruta sa težinama,Dijkstra
+Najjeftinija putanja,Dijkstra
+Minimalna cena povezivanja,Dijkstra
+Kako da nađem najkraći put sa minimum cost,Dijkstra
+Moram da nađem najjeftiniju putanju između čvorova,Dijkstra
+Ruta sa najmanjom cenom,Dijkstra
+Weighted path optimization,Dijkstra
+Kako da rešim problem najkraćeg puta sa pozitivnim težinama,Dijkstra
+GPS navigacija najkraći put,Dijkstra
+Moram da pronađem optimalnu rutu za dostavu,Dijkstra
+Moram da obiđem sve čvorove u dubinu,DFS
+Želim da pretražim graf do kraja grane pa nazad,DFS
+Treba mi algoritam za pretragu grafa u dubinu,DFS
+Treba mi algoritam za istraživanje grafa u dubinu,DFS
+Kako da pronađem sve povezane komponente u grafu,DFS
+Kako da pronađem povezane komponente istraživanjem u dubinu,DFS
+Kako da proverim ima li ciklusa u grafu,DFS
+Kako da detektujem ciklus pretragom u dubinu,DFS
+Želim da istražim graf do najveće dubine pre nego što se vratim,DFS
+Kako da nađem sve čvorove dostižne iz početnog čvora u dubinu,DFS
+Moram da obiđem graf rekurzivno u dubinu,DFS
+Treba mi algoritam koji istražuje sve puteve u dubinu,DFS
+Kako da detektujem povezane komponente pretragom u dubinu,DFS
+Želim da pronađem sve elemente grafa istraživanjem u dubinu,DFS
+Moram da proverim povezanost grafa pretragom u dubinu,DFS
+Kako da nađem puteve u grafu istraživanjem u dubinu,DFS
+Treba mi rekurzivni obilazak grafa,DFS
+Želim da istražim graf pretragom do kraja svake grane,DFS
+Kako da obiđem čvorove grafa do maksimalne dubine,DFS
+Moram da nađem cikluse u grafu pretragom u dubinu,DFS
+Treba mi algoritam koji ide u dubinu pre nego što prelazi na druge grane,DFS
+Kako da istražim sve putanje u grafu rekurzivno,DFS
+Želim da pronađem dostižne čvorove pretragom u dubinu,DFS
+Moram da detektujem Back Edge u grafu,DFS
+Kako da nađem sve čvorove u komponenti pretragom u dubinu,DFS
+Treba mi dubinska pretraga za obilazak grafa,DFS
+Želim da obiđem graf istraživanjem svake grane do kraja,DFS
+Kako da pronađem topološko sortiranje grafa,DFS
+Moram da istražim graf od korena do najveće dubine,DFS
+Treba mi algoritam za pronalaženje mostova u grafu,DFS
+Detekcija ciklusa,DFS
+Rekurzivni obilazak,DFS
+Dubinska eksploracija,DFS
+Moram da nađem povezane komponente u social network-u,DFS
+Kako da nađem sve cikluse u grafu,DFS
+Kako da istražim graf rekurzivno do kraja,DFS
+Tarjan algoritam za mostove,DFS
+Strongly connected components,DFS
+Topological sort DAG,DFS
+Kako da proverim postoji li put između dva čvora pretragom po širini,BFS
+Moram da obiđem sve čvorove po nivoima,BFS
+Želim da pronađem najbliži čvor u grafu pretragom po slojevima,BFS
+Treba mi algoritam koji obilazi graf nivo po nivo,BFS
+Kako da pretražim graf pretragom po širini,BFS
+Želim da nađem najkraći put u neoteženom grafu,BFS
+Kako da obiđem čvorove sloj po sloj,BFS
+Moram da pronađem najkraću putanju u grafu bez težina,BFS
+Treba mi algoritam koji istražuje graf po nivoima,BFS
+Kako da nađem udaljenost od izvora do svih čvorova,BFS
+Želim da obiđem graf po širini,BFS
+Moram da istražim sve čvorove na istom nivou pre prelaska na sledeći,BFS
+Kako da pronađem najkraći put od izvora u neoteženom grafu,BFS
+Treba mi pretraga koja obiđe sve susede pre nego pređe na sledeći nivo,BFS
+Želim da nađem minimalan broj koraka do ciljnog čvora,BFS
+Kako da istražim graf slojevito,BFS
+Moram da pronađem sve čvorove na udaljenosti k od izvora,BFS
+Treba mi algoritam za obilazak grafa po nivoima,BFS
+Kako da nađem najkraće puteve u neoteženom grafu,BFS
+Želim da obiđem susede čvora pre nego pređem na dublju pretragu,BFS
+Moram da istražim graf po širini od izvora,BFS
+Kako da pronađem najbliže čvorove u grafu,BFS
+Treba mi iterativna pretraga po širini,BFS
+Želim da obiđem sve čvorove na istom nivou istovremeno,BFS
+Kako da nađem udaljenost u broju ivica od izvora,BFS
+Moram da istražim sve susede pre prelaska na dublje nivoe,BFS
+Treba mi algoritam koji koristi red za obilazak grafa,BFS
+Kako da pronađem najkraće puteve bez težina,BFS
+Želim da obiđem graf u širinu od početnog čvora,BFS
+Moram da nađem čvorove dostižne u najmanje koraka,BFS
+Kako da istražim island najbrže,BFS
+Obilazak po nivoima,BFS
+Sloj po sloj,BFS
+Kako da pronađem shortest path u grid-u,BFS
+Želim da pronađem najkraću putanju u mreži bez težina,BFS
+Želim da pronađem broj koraka do cilja,BFS
+Flood fill algoritam,BFS
+Level order traversal,BFS
+Kako da pronađem najkraći put u lavirintu,BFS
+Želim da sortiram niz efikasno bez dodatne memorije,QuickSort
+Kako da podelim niz oko pivota i sortiram rekurzivno,QuickSort
+Želim da implementiram brzi algoritam sortiranja in-place,QuickSort
+Kako da brzo sortiram podatke u rastućem redosledu,QuickSort
+Kako da sortiram podatke deljenjem oko pivota,QuickSort
+Treba mi efikasna metoda sortiranja bez dodatne memorije,QuickSort
+Moram da sortiram podatke particijom i rekurzijom,QuickSort
+Kako da sortiram niz deljenjem i rekurzijom,QuickSort
+Treba mi brz algoritam sortiranja sa prosečnom O(n log n) složenošću,QuickSort
+Želim da sortiram podatke birajući pivot i particionišući niz,QuickSort
+Kako da implementiram sortiranje koje ne koristi dodatnu memoriju,QuickSort
+Moram da sortiram niz efikasno uz in-place particioniranje,QuickSort
+Treba mi algoritam koji sortira deljenjem oko pivot elementa,QuickSort
+Kako da sortiram podatke rekurzivnom podelom,QuickSort
+Želim da implementiram efikasan algoritam sortiranja sa pivotom,QuickSort
+Moram da sortiram niz korišćenjem podeli-i-osvoji strategije,QuickSort
+Kako da sortiram podatke bez korišćenja dodatnog prostora,QuickSort
+Treba mi sortiranje koje radi in-place sa pivotom,QuickSort
+Želim da sortiram niz biranjem pivota i rekurzijom,QuickSort
+Kako da implementiram sortiranje sa particionisanjem,QuickSort
+Moram da sortiram podatke deljenjem oko izabranog elementa,QuickSort
+Treba mi brz algoritam sortiranja za velike nizove,QuickSort
+Kako da sortiram niz efikasno sa prosečnom vremenskom složenošću,QuickSort
+Želim da implementiram sortiranje koje koristi pivot,QuickSort
+Moram da sortiram podatke rekurzivnim particionisanjem,QuickSort
+Kako da sortiram niz metodom podeli-i-osvoji,QuickSort
+Treba mi algoritam sortiranja koji ne zahteva dodatnu memoriju,QuickSort
+Želim da sortiram podatke birajući random pivot,QuickSort
+Kako da implementiram efikasno in-place sortiranje,QuickSort
+Moram da sortiram niz korišćenjem particije oko pivota,QuickSort
+Particionisanje niza,QuickSort
+Podeli i osvoji,QuickSort
+Sortiranje pivotom,QuickSort
+Kako da sortiram velike podatke in-place,QuickSort
+Kako da implementiram brzo sortiranje,QuickSort
+Moram da sortiram niz bez dodatne memorije,QuickSort
+Divide and conquer sort,QuickSort
+Pivot partition,QuickSort
+Rekurzivno sortiranje,QuickSort
+Kako da brzo pronađem vrednost u sortiranoj listi,BinarySearch
+Želim da pronađem element u sortiranom nizu poloveći pretragu,BinarySearch
+Kako da proverim da li se broj nalazi u sortiranom nizu bez linearne pretrage,BinarySearch
+Treba mi algoritam koji traži element deljenjem opsega na pola,BinarySearch
+Moram da pronađem indeks elementa u sortiranoj strukturi,BinarySearch
+Moram da pronađem poziciju elementa binarnim pristupom,BinarySearch
+Kako da pretražim sortiran niz deljenjem na pola,BinarySearch
+Treba mi algoritam za pretragu sortiranog niza u O(log n),BinarySearch
+Želim da pronađem element u sortiranoj listi logaritamskom pretragom,BinarySearch
+Kako da efikasno pretražim sortiran niz,BinarySearch
+Moram da nađem vrednost u sortiranom nizu polovljenjem intervala,BinarySearch
+Treba mi pretraga koja deli niz na pola u svakom koraku,BinarySearch
+Kako da pronađem poziciju u sortiranom nizu sa logaritamskom složenošću,BinarySearch
+Želim da pretražim sortiranu strukturu deljenjem opsega,BinarySearch
+Moram da nađem indeks elementa u sortiranoj listi efikasno,BinarySearch
+Kako da implementiram logaritamsku pretragu sortirane kolekcije,BinarySearch
+Treba mi algoritam za brzu pretragu sortiranih podataka,BinarySearch
+Želim da pronađem element u sortiranom nizu sa O(log n) složenošću,BinarySearch
+Kako da pretražim sortiran niz bez linearne pretrage,BinarySearch
+Moram da nađem vrednost u sortiranoj strukturi polovljenjem,BinarySearch
+Treba mi pretraga sortiranog niza deljenjem intervala,BinarySearch
+Kako da efikasno nađem element u sortiranoj kolekciji,BinarySearch
+Želim da implementiram binarnu pretragu sortirane liste,BinarySearch
+Moram da pretražim sortiran niz logaritamski,BinarySearch
+Kako da pronađem poziciju u sortiranoj listi deljenjem,BinarySearch
+Treba mi algoritam za logaritamsku pretragu sortiranih podataka,BinarySearch
+Želim da nađem element u sortiranom nizu efikasno,BinarySearch
+Kako da implementiram pretragu sortiranog niza polovljenjem,BinarySearch
+Moram da pretražim sortiranu listu sa logaritamskom složenošću,BinarySearch
+Treba mi algoritam koji deli sortiran niz dok ne pronađe element,BinarySearch
+Polovi i traži,BinarySearch
+Deljenje intervala,BinarySearch
+Logaritamska pretraga,BinarySearch
+Moram da pretražim sortiran niz brzo,BinarySearch
+Moram da pretražim veliki sortiran dataset,BinarySearch
+Kako da nađem da li broj postoji u sortiranoj listi,BinarySearch
+Lower bound upper bound,BinarySearch
+Kako da pronađem element u sortiranom nizu,BinarySearch
+Dichotomy search,BinarySearch
+Treba mi algoritam za dinamičko programiranje sa memorisanjem,DynamicProgramming
+Kako da rešim problem kombinovanjem rešenja podproblema,DynamicProgramming
+Želim da optimizujem rekurzivne pozive memorisanjem,DynamicProgramming
+Moram da rešim problem sa preklapajućim podproblemima,DynamicProgramming
+Kako da nađem optimalno rešenje kroz podprobleme,DynamicProgramming
+Želim da izbegnem ponavljanje izračunavanja iste vrednosti,DynamicProgramming
+Kako da implementiram memoizaciju za optimizaciju,DynamicProgramming
+Moram da rešim problem tabelarnim računanjem odozdo na gore,DynamicProgramming
+Treba mi algoritam sa optimalnom podsturkturom,DynamicProgramming
+Kako da rešim problem maksimalne podsekvence,DynamicProgramming
+Želim da nađem najduži zajednički podniz,DynamicProgramming
+Moram da rešim problem ranca sa memorisanjem,DynamicProgramming
+Kako da optimizujem rekurziju keširanje rezultata,DynamicProgramming
+Treba mi algoritam za rešavanje problema sa podproblemima,DynamicProgramming
+Želim da implementiram tabulaciju za dinamičko programiranje,DynamicProgramming
+Kako da rešim problem kombinacijom bottom-up pristupa,DynamicProgramming
+Moram da nađem optimalno rešenje gradeći ga iz manjih problema,DynamicProgramming
+Treba mi algoritam koji koristi tabelu za čuvanje međurezultata,DynamicProgramming
+Kako da izbegnem eksponencijalnu složenost memoizacijom,DynamicProgramming
+Želim da rešim problem najkraćeg puta dinamičkim programiranjem,DynamicProgramming
+Moram da optimizujem algoritam koristeći prethodno izračunate vrednosti,DynamicProgramming
+Kako da rešim problem brojanja načina dinamičkim pristupom,DynamicProgramming
+Treba mi algoritam za optimizaciju sa preklapajućim podproblemima,DynamicProgramming
+Želim da implementiram dinamičko programiranje za problema optimizacije,DynamicProgramming
+Kako da rešim problem maksimizacije dinamičkim pristupom,DynamicProgramming
+Moram da nađem najjeftinije rešenje koristeći memoizaciju,DynamicProgramming
+Treba mi algoritam koji gradi rešenje iz manjih podproblema,DynamicProgramming
+Kako da rešim problem minimizacije sa dinamičkim programiranjem,DynamicProgramming
+Želim da optimizujem rekurzivni algoritam tabeliranjem,DynamicProgramming
+Moram da rešim problem sekvenci dinamičkim pristupom,DynamicProgramming
+Problem ranca,DynamicProgramming
+Najduži zajednički podniz,DynamicProgramming
+Memoizacija,DynamicProgramming
+Kako da rešim problem editovanja stringova najkraćom putanjom,DynamicProgramming
+Želim da rešim 0/1 Knapsack problem,DynamicProgramming
+Želim da optimizujem problem sa memoizacijom,DynamicProgramming
+Želim da rešim problem najdužeg rastućeg podniza,DynamicProgramming
+Coin change problem,DynamicProgramming
+Matrix chain multiplication,DynamicProgramming
+Edit distance problem,DynamicProgramming
+Treba mi algoritam za pretraživanje svih rešenja,Backtracking
+Kako da generiše sve permutacije,Backtracking
+Želim da pronađem sva moguća rešenja problema,Backtracking
+Moram da istražim sva rešenja i vratim se nazad,Backtracking
+Kako da rešim problem n-kraljica,Backtracking
+Želim da pronađem sve kombinacije koje zadovoljavaju uslov,Backtracking
+Kako da istražim sve moguće putanje i vratim se na prethodni korak,Backtracking
+Moram da nađem sva rešenja problema sudoku,Backtracking
+Treba mi algoritam za generisanje svih podskupova,Backtracking
+Kako da pronađem sve načine da postavim elemente uz ograničenja,Backtracking
+Želim da istražim stablo rešenja sa vraćanjem nazad,Backtracking
+Moram da pronađem sve validne konfiguracije,Backtracking
+Kako da implementiram pretragu sa vraćanjem na prethodni korak,Backtracking
+Treba mi algoritam koji istražuje sve grane dok ne nađe rešenje,Backtracking
+Želim da pronađem sve kombinacije zbira koji daje target,Backtracking
+Kako da rešim problem bojenja grafa sa vraćanjem nazad,Backtracking
+Moram da nađem sve puteve u lavirintu,Backtracking
+Treba mi algoritam za isprobavanje svih opcija i povratak,Backtracking
+Kako da pronađem sva rešenja problema rasporeda,Backtracking
+Želim da istražim sve moguće raspodele sa ograničenjima,Backtracking
+Moram da nađem validne kombinacije sa vraćanjem nazad,Backtracking
+Kako da implementiram rekurzivnu pretragu sa backtracking-om,Backtracking
+Treba mi algoritam za rešavanje constraint satisfaction problema,Backtracking
+Želim da pronađem sve permutacije koje zadovoljavaju ograničenja,Backtracking
+Kako da istražim stablo odluka sa povratkom na prethodni nivo,Backtracking
+Moram da nađem sva rešenja postavljanjem i povlačenjem izbora,Backtracking
+Treba mi algoritam koji probuje sve mogućnosti rekurzivno,Backtracking
+Kako da rešim problem kombinatorike sa backtracking-om,Backtracking
+Želim da pronađem sve validne sekvence sa vraćanjem nazad,Backtracking
+Moram da istražim sve moguće izbore i poništim nevalidne,Backtracking
+Problem kraljica,Backtracking
+Sudoku rešavanje,Backtracking
+Sva rešenja,Backtracking
+Generisanje permutacija,Backtracking
+Treba mi algoritam za N-queens zadatak,Backtracking
+Kako da nađem sva rešenja lavirinta,Backtracking
+Kako da generiše sve kombinacije,Backtracking
+Constraint satisfaction,Backtracking
+Graph coloring problem,Backtracking
+Subset sum backtracking,Backtracking
+Treba mi struktura koja održava red izvršavanja sa prioritetima,PriorityQueue
+Kako da uvek izvlačim element sa najvećim prioritetom,PriorityQueue
+Želim da obrađujem zadatke po važnosti,PriorityQueue
+Moram da implementiram planiranje zadataka,PriorityQueue
+Kako da održavam red sa dinamičkim prioritetima,PriorityQueue
+Treba mi struktura koja brzo vraća element sa najvišim prioritetom,PriorityQueue
+Kako da implementiram red gde elementi imaju prioritete,PriorityQueue
+Želim da održavam kolekciju sa automatskim sortiranjem po prioritetu,PriorityQueue
+Moram da izvlačim najvažnije zadatke prvo,PriorityQueue
+Kako da implementiram red za procesiranje po prioritetu,PriorityQueue
+Treba mi struktura za skladištenje elemenata sa težinama,PriorityQueue
+Želim da obrađujem događaje po prioritetu,PriorityQueue
+Kako da implementiram red sa umetanjem po prioritetu,PriorityQueue
+Moram da održavam sortiran red po važnosti,PriorityQueue
+Treba mi struktura koja uvek vraća element sa maksimalnim prioritetom,PriorityQueue
+Kako da implementiram scheduling sa prioritetima,PriorityQueue
+Želim da obrađujem elemente po nivoima važnosti,PriorityQueue
+Moram da održavam kolekciju sa dinamičkim prioritetima,PriorityQueue
+Kako da implementiram red sa automatskim sortiranjem,PriorityQueue
+Treba mi struktura za procesiranje zadataka po značaju,PriorityQueue
+Želim da izvlačim elemente sa najvećom težinom,PriorityQueue
+Kako da implementiram min ili max heap za prioritete,PriorityQueue
+Moram da održavam red sa efikasnim umetanjem po prioritetu,PriorityQueue
+Treba mi struktura koja sortira elemente pri umetanju,PriorityQueue
+Kako da implementiram red za Dijkstra algoritam,PriorityQueue
+Želim da obrađujem elemente od najvažnijeg ka najmanje važnom,PriorityQueue
+Moram da implementiram event queue sa prioritetima,PriorityQueue
+Kako da održavam sortiran red sa logaritamskim operacijama,PriorityQueue
+Treba mi struktura za prioritetno procesiranje,PriorityQueue
+Želim da implementiram red gde se elementi izvlače po prioritetu,PriorityQueue
+Planiranje po važnosti,PriorityQueue
+Task scheduler,PriorityQueue
+Obrada po značaju,PriorityQueue
+Sortirana kolekcija po prioritetu,PriorityQueue
+Moram da obrađujem zadatke po prioritetu,PriorityQueue
+Moram da obrađujem događaje po prioritetu,PriorityQueue
+Moram da održavam scheduling po važnosti,PriorityQueue
+Weighted scheduling,PriorityQueue
+Job ordering,PriorityQueue
+Event prioritization,PriorityQueue
+Treba mi struktura koja garantuje jedinstvene elemente,Set
+Kako da proverim pripadnost elementa u konstantnom vremenu,Set
+Želim da eliminišem duplikate iz kolekcije,Set
+Moram da radim uniju i presek kolekcija,Set
+Kako da čuvam samo jedinstvene vrednosti,Set
+Treba mi kolekcija koja ne dozvoljava duplikate,Set
+Kako da brzo proverim da li element postoji,Set
+Želim da održavam skup jedinstvenih elemenata,Set
+Moram da implementiram kolekciju bez ponavljanja,Set
+Kako da brzo dodajem i proveravam članstvo,Set
+Treba mi struktura za skladištenje samo različitih elemenata,Set
+Želim da radim operacije skupova kao unija i presek,Set
+Kako da efikasno proverim da li se vrednost već nalazi u kolekciji,Set
+Moram da održavam skup unikatnih elemenata sa brzom pretragom,Set
+Treba mi kolekcija koja automatski odbacuje duplikate,Set
+Kako da implementiram matematički skup,Set
+Želim da proverim pripadnost u O(1) vremenu,Set
+Moram da radim operacije razlike između skupova,Set
+Kako da čuvam distinktne elemente efikasno,Set
+Treba mi struktura bez duplikata sa brzim operacijama,Set
+Želim da implementiram skup sa hash-based pristupom,Set
+Kako da brzo pronađem razliku između dve kolekcije,Set
+Moram da održavam kolekciju jedinstvenih vrednosti sa dodatkom i brisanjem,Set
+Treba mi struktura koja garantuje unikatnost,Set
+Kako da implementiram skup sa operacijama unija presek i razlika,Set
+Želim da proverim da li postoje duplikati u O(n),Set
+Moram da čuvam samo jedinstvene ključeve,Set
+Kako da efikasno pronađem zajedničke elemente,Set
+Treba mi kolekcija koja ignorise duplikate pri umetanju,Set
+Želim da implementiram set-based operacije,Set
+Bez duplikata,Set
+Unikatne vrednosti,Set
+Distinct collection,Set
+Treba mi struktura koja garantuje jedinstvene elemente i brzo proverava članstvo,Set
+Želim da nađem zajedničke elemente između dva skupa,Set
+Kako da eliminišem duplikate brzo,Set
+Želim da proverim da li postoje duplikati,Set
+Unique collection,Set
+Intersection union,Set
+Membership test,Set
+Kako da pristupim elementu po indeksu u konstantnom vremenu,Array
+Treba mi struktura sa brzim pristupom po indeksu,Array
+Kako da iteriram kroz sekvencu brojeva,Array
+Želim da sačuvam više vrednosti sekvencijalno,Array
+Moram da čuvam kolekciju elemenata u memoriji,Array
+Želim da čuvam elemente u nizu fiksirane dužine,Array
+Kako da organizujem podatke u redove i kolone,Array
+Kako da čuvam sekvencu elemenata sa direktnim pristupom,Array
+Treba mi struktura sa O(1) pristupom po indeksu,Array
+Želim da skladištim elemente u susednim memorijskim lokacijama,Array
+Kako da implementiram listu sa fiksnom dužinom,Array
+Moram da čuvam podatke u kontinualnom bloku memorije,Array
+Treba mi struktura za brz random pristup,Array
+Kako da organizujem podatke sa indeksiranim pristupom,Array
+Želim da čuvam niz elemenata istog tipa,Array
+Moram da implementiram sekvencu sa direktnim pristupom,Array
+Kako da čuvam podatke u linearnoj strukturi,Array
+Treba mi kolekcija sa pristupom preko indeksa,Array
+Želim da implementiram tabelu podataka,Array
+Kako da čuvam matricu vrednosti,Array
+Moram da organizujem podatke u redove,Array
+Treba mi struktura sa cache-friendly pristupom,Array
+Kako da efikasno pristupim elementu znanjem pozicije,Array
+Želim da implementiram statički alocirani niz,Array
+Moram da čuvam sekvencu sa O(1) čitanjem,Array
+Kako da organizujem podatke u jednodimenzionalnu strukturu,Array
+Treba mi kontinualna memorijska struktura,Array
+Želim da implementiram niz sa direktnom adresacijom,Array
+Kako da čuvam podatke sa indeksnim pristupom,Array
+Moram da organizujem vrednosti u sekvencijalnu kolekciju,Array
+Indeksirana kolekcija,Array
+Sekvenca,Array
+Kontinualna memorija,Array
+Kako da čuvam sekvencu sa direktnim pristupom,Array
+Želim da čuvam matricu brojeva,Array
+Kako da čuvam tabelarnu strukturu podataka,Array
+Fixed size collection,Array
+Vector storage,Array
+Random access,Array
+Treba mi struktura koja radi po principu prvi uđe prvi izađe,Queue
+Moram da implementiram red operacija,Queue
+Kako da simuliram red čekanja u sistemu,Queue
+Treba mi struktura koja radi po FIFO principu,Queue
+Kako da implementiram FIFO strukturu,Queue
+Želim da dodajem elemente na kraj i uklanjam s početka,Queue
+Kako da simuliram sistem čekanja sa redosledom,Queue
+Treba mi struktura za procesiranje u redosledu dolaska,Queue
+Kako da implementiram red za task scheduling,Queue
+Želim da obrađujem zahteve po redosledu prijema,Queue
+Moram da čuvam elemente koji se procesiraju FIFO,Queue
+Kako da implementiram red za BFS algoritam,Queue
+Treba mi struktura koja dodaje pozadi i uklanja spreda,Queue
+Želim da simuliram waiting line,Queue
+Kako da implementiram buffer sa FIFO pristupom,Queue
+Moram da obrađujem događaje u redosledu dolaska,Queue
+Treba mi struktura za sekvencionalno procesiranje,Queue
+Kako da implementiram message queue,Queue
+Želim da održavam redosled zahteva,Queue
+Moram da čuvam zadatke koji čekaju na procesiranje,Queue
+Kako da implementiram red sa enqueue i dequeue operacijama,Queue
+Treba mi struktura za First-In-First-Out pristup,Queue
+Želim da simuliram red u prodavnici,Queue
+Kako da implementiram print queue,Queue
+Moram da obrađujem elemente po redosledu pristizanja,Queue
+Treba mi struktura za sinhronizaciju task-ova,Queue
+Kako da implementiram event queue,Queue
+Želim da čuvam zahteve u redosledu za procesiranje,Queue
+Moram da implementiram job queue,Queue
+Kako da simuliram sistem sa čekanjem u redu,Queue
+Prvi unutra prvi napolje,Queue
+Red čekanja,Queue
+Waiting line,Queue
+Sekvencijalna obrada,Queue
+Moram da obrađujem zahteve po redosledu dolaska,Queue
+Moram da implementiram print queue,Queue
+Moram da simuliram red čekanja,Queue
+First come first served,Queue
+Sequential processing,Queue
+Request buffer,Queue
+Kako da povežem ključeve i vrednosti,HashMap
+Treba mi struktura za brzo pronalaženje vrednosti po ključu,HashMap
+Kako da mapiram vrednosti na jedinstvene ključeve,HashMap
+Kako da povezujem parove ključ-vrednost,HashMap
+Kako da povezujem ključeve sa vrednostima za brzu pretragu,HashMap
+Moram da implementiram asocijativni niz,HashMap
+Kako da mapiram ključeve na vrednosti za O(1) pristup,HashMap
+Želim da brzo pretražujem elemente po jedinstvenom identifikatoru,HashMap
+Treba mi struktura za mapiranje ključeva na vrednosti,HashMap
+Kako da implementiram dictionary,HashMap
+Želim da čuvam parove ključ-vrednost sa brzim pristupom,HashMap
+Moram da implementiram lookup tabelu,HashMap
+Kako da brzo pronađem vrednost pomoću ključa,HashMap
+Treba mi hash-based mapa,HashMap
+Želim da implementiram key-value store,HashMap
+Kako da održavam asocijaciju između ključeva i vrednosti,HashMap
+Moram da implementiram cache sa ključevima,HashMap
+Treba mi struktura sa O(1) pretragom po ključu,HashMap
+Kako da čuvam podatke sa brzim pristupom preko identifikatora,HashMap
+Želim da implementiram indeks sa ključevima,HashMap
+Moram da mapiram ID-eve na objekte,HashMap
+Kako da efikasno pristupim vrednosti preko ključa,HashMap
+Treba mi struktura za skladištenje parova,HashMap
+Želim da implementiram hash tabelu,HashMap
+Kako da čuvam mapiranje sa konstantnim pristupom,HashMap
+Moram da implementiram symbol tabelu,HashMap
+Treba mi struktura za brzu lookup operaciju,HashMap
+Kako da čuvam asociranje između entiteta,HashMap
+Želim da implementiram telefon imenik sa brzom pretragom,HashMap
+Moram da održavam mapiranje između ključeva i podataka,HashMap
+Rečnik,HashMap
+Parovi,HashMap
+Mapiranje,HashMap
+Brzi cache,HashMap
+Lookup tabela,HashMap
+Želim da čuvam parove ID-vrednost brzo,HashMap
+Kako da čuvam lookup tablicu za brz pristup,HashMap
+Želim da implementiram key-value storage,HashMap
+Key-value pairs,HashMap
+Associative storage,HashMap
+Treba mi struktura koja radi po principu poslednji uđe prvi izađe,Stack
+Želim da implementiram undo funkcionalnost,Stack
+Kako da implementiram kolekciju sa LIFO principom,Stack
+Treba mi struktura sa LIFO redosledom,Stack
+Kako da pratim redosled poziva funkcija,Stack
+Moram da čuvam elemente koji se uklanjaju obrnutim redom,Stack
+Želim da izvršavam operacije unazad,Stack
+Kako da implementiram sistema undo/redo,Stack
+Treba mi struktura za skladištenje sa LIFO pristupom,Stack
+Kako da implementiram stek za evaluaciju izraza,Stack
+Želim da održavam istoriju akcija,Stack
+Moram da implementiram backtracking sa stekom,Stack
+Kako da čuvam call stack,Stack
+Treba mi struktura koja radi Last-In-First-Out,Stack
+Želim da implementiram parsing sa stekom,Stack
+Kako da obrađujem zagrada matching,Stack
+Moram da čuvam elemente sa pristupom samo vrhu,Stack
+Treba mi struktura za navigaciju unazad,Stack
+Kako da implementiram browser back funkcionalnost,Stack
+Želim da održavam redosled operacija za poništavanje,Stack
+Moram da implementiram DFS sa stekom,Stack
+Kako da čuvam privremene rezultate u obrnutom redosledu,Stack
+Treba mi struktura za push i pop operacije,Stack
+Želim da implementiram reverse polish notation evaluaciju,Stack
+Kako da održavam stanje za vraćanje unazad,Stack
+Moram da implementiram undo buffer,Stack
+Treba mi struktura za skladištenje poziva funkcija,Stack
+Kako da čuvam nesting levels,Stack
+Želim da implementiram expression evaluation,Stack
+Moram da održavam LIFO pristup elementima,Stack
+Poslednji unutra prvi napolje,Stack
+Undo mehanizam,Stack
+Obrnuti redosled,Stack
+Kako da implementiram undo mehanizam,Stack
+Želim da pratim istoriju browsing-a,Stack
+Kako da čuvam funkcijske pozive za vraćanje,Stack
+Last in first out,Stack
+Call history,Stack
+Reverse order,Stack
+Kako da implementiram mrežu gradova sa vezama između njih,Graph
+Moram da čuvam čvorove i veze između njih,Graph
+Kako da predstavim mrežu čvorova i ivica,Graph
+Želim da modelujem odnose između entiteta,Graph
+Kako da implementiram mrežu sa listama susedstva,Graph
+Kako da implementiram mrežu sa matricom susedstva,Graph
+Treba mi struktura za reprezentaciju relacija između entiteta,Graph
+Kako da predstavim topologiju mreže,Graph
+Kako da implementiram mrežu pomoću liste povezanosti,Graph
+Želim da čuvam povezanost između čvorova,Graph
+Kako da predstavim graf sa čvorovima i ivicama,Graph
+Moram da modelujem mrežu puteva,Graph
+Treba mi struktura za skladištenje relacija,Graph
+Kako da implementiram social network graf,Graph
+Želim da čuvam strukturu sa vezama,Graph
+Moram da predstavim graf sa susedstvom,Graph
+Kako da implementiram weighted graph,Graph
+Treba mi struktura za modelovanje povezanosti,Graph
+Želim da čuvam mrežu sa čvorovima i vezama,Graph
+Kako da predstavim directed ili undirected graf,Graph
+Moram da implementiram graph sa edge listom,Graph
+Kako da čuvam topologiju mreže računara,Graph
+Treba mi struktura za reprezentaciju puteva,Graph
+Želim da modelujem grad sa ulicama,Graph
+Kako da implementiram graf za analizu mreža,Graph
+Moram da čuvam graf sa težinama na ivicama,Graph
+Treba mi struktura za skladištenje dependency grafa,Graph
+Kako da predstavim mrežu sa čvorovima i konekcijama,Graph
+Želim da implementiram graf za rutiranje,Graph
+Moram da modelujem mrežu veza između entiteta,Graph
+Mreža povezanosti,Graph
+Čvorovi i veze,Graph
+Relacijska mreža,Graph
+Kako da predstavim mrežu društvenih veza,Graph
+Moram da modelujem dependency graf,Graph
+Adjacency structure,Graph
+Network topology,Graph
+Nodes and edges,Graph
+Connectivity map,Graph
+Relationship network,Graph
+Treba mi struktura za upite na intervalu,SegmentTree
+Kako da efikasno odgovorim na upite sume intervala,SegmentTree
+Želim da ažuriram i pretražujem na segmentima niza,SegmentTree
+Moram da radim operacije na opsegu efikasno,SegmentTree
+Kako da implementiram strukturu za intervalne upite,SegmentTree
+Treba mi struktura za range query sa brzim ažuriranjem,SegmentTree
+Kako da efikasno računam sumu na segmentu,SegmentTree
+Želim da implementiram range minimum query,SegmentTree
+Moram da odgovaram na upite opsega u O(log n),SegmentTree
+Kako da implementiram lazy propagation na segmentima,SegmentTree
+Treba mi struktura za intervalne operacije,SegmentTree
+Želim da efikasno ažuriram i čitam segmente niza,SegmentTree
+Kako da implementiram range sum query,SegmentTree
+Moram da održavam agregaciju na intervalima,SegmentTree
+Treba mi struktura za maksimum na segmentu,SegmentTree
+Kako da implementiram stabilo za range queries,SegmentTree
+Želim da odgovaram na upite intervala sa ažuriranjem,SegmentTree
+Moram da računam min/max/sum na opsezima,SegmentTree
+Kako da implementiram point update i range query,SegmentTree
+Treba mi struktura za efikasne operacije na segmentima,SegmentTree
+Želim da implementiram interval tree za upite,SegmentTree
+Kako da održavam statistike na intervalima,SegmentTree
+Moram da odgovaram na range queries logaritamski,SegmentTree
+Treba mi struktura za dynamic range queries,SegmentTree
+Kako da implementiram aggregate functions na segmentima,SegmentTree
+Želim da efikasno ažuriram interval,SegmentTree
+Moram da radim bulk updates na segmentima,SegmentTree
+Kako da implementiram stabilo za opsege,SegmentTree
+Treba mi struktura za održavanje min/max na intervalima,SegmentTree
+Želim da odgovaram na complex range queries,SegmentTree
+Upiti na intervalima,SegmentTree
+Opsezi,SegmentTree
+Agregacija intervala,SegmentTree
+Moram da odgovaram na range sum upite brzo,SegmentTree
+Kako da računam aggregate na intervalima,SegmentTree
+Range minimum query,SegmentTree
+Lazy propagation,SegmentTree
+Range update operations,SegmentTree
+Interval aggregation,SegmentTree
+Želim da povežem elemente tako da svaki pokazuje na sledeći,LinkedList
+Kako da napravim lanac povezanih čvorova sa pokazivačima,LinkedList
+Treba mi struktura sa pokazivačima na sledeći element,LinkedList
+Moram da dodajem elemente u sredinu bez pomeranja cele strukture,LinkedList
+Kako da implementiram lanac elemenata sa pokazivačima,LinkedList
+Moram da dodajem čvorove bez realokacije cele strukture,LinkedList
+Treba mi dinamička struktura sa povezivanjem čvorova,LinkedList
+Kako da implementiram sekvencu sa next pointerima,LinkedList
+Želim da čuvam elemente povezane pointerima,LinkedList
+Moram da implementiram singly ili doubly linked list,LinkedList
+Kako da povezujem čvorove sa pokazivačima,LinkedList
+Treba mi struktura sa dinamičkim umetanjem,LinkedList
+Želim da implementiram listu sa povezivanjem,LinkedList
+Kako da čuvam sekvencu bez kontinualne memorije,LinkedList
+Moram da implementiram strukturu sa next/prev pointerima,LinkedList
+Treba mi lista sa efikasnim umetanjem na bilo kojoj poziciji,LinkedList
+Kako da povezujem elemente kroz pokazivače,LinkedList
+Želim da implementiram circular linked list,LinkedList
+Moram da čuvam podatke sa dinamičkim povezivanjem,LinkedList
+Kako da implementiram listu sa referencama na sledeći element,LinkedList
+Treba mi struktura sa pointer-based povezivanjem,LinkedList
+Želim da implementiram sekvencu sa node povezivanjem,LinkedList
+Kako da čuvam elemente u lancu,LinkedList
+Moram da implementiram doubly connected list,LinkedList
+Treba mi struktura sa efikasnim brisanjem iz sredine,LinkedList
+Kako da implementiram linked strukturu,LinkedList
+Želim da povezujem node-ove pokazivačima,LinkedList
+Moram da čuvam podatke u povezanim čvorovima,LinkedList
+Kako da implementiram listu sa dinamičkom alokacijom,LinkedList
+Treba mi struktura gde svaki element pokazuje na sledeći,LinkedList
+Lanac čvorova,LinkedList
+Pokazivači,LinkedList
+Povezana sekvenca,LinkedList
+Želim da implementiram dinamičku listu sa efikasnim umetanjem,LinkedList
+Želim da implementiram doubly linked list,LinkedList
+Node chain,LinkedList
+Pointer structure,LinkedList
+Dynamic insertion,LinkedList
+Chain of nodes,LinkedList
+Kako da brzo pronađem maksimalni element,Heap
+Želim da održavam najveći element nakon dodavanja,Heap
+Moram da izvlačim minimum ili maksimum efikasno,Heap
+Treba mi struktura za brzo pronalaženje najmanjeg ili najvećeg elementa,Heap
+Kako da implementiram priority queue sa heap strukturom,Heap
+Želim da održavam sortiran pristup minimumu ili maksimumu,Heap
+Moram da implementiram min heap ili max heap,Heap
+Kako da brzo unosim i izvlačim ekstremne vrednosti,Heap
+Treba mi struktura koja održava parcijalno sortiranje,Heap
+Želim da implementiram heap sort,Heap
+Kako da efikasno pronađem k-ti najmanji element,Heap
+Moram da održavam top k elemenata,Heap
+Treba mi struktura za heapify operaciju,Heap
+Kako da implementiram strukturu koja automatski sortira po prioritetu,Heap
+Želim da obrađujem elemente po veličini efikasno,Heap
+Moram da implementiram logaritamsko umetanje i brisanje,Heap
+Kako da pronađem median u streaming podacima,Heap
+Treba mi binary heap,Heap
+Želim da implementiram heap za Dijkstra algoritam,Heap
+Kako da održavam minimum sa O(log n) operacijama,Heap
+Moram da implementiram struktura za heap operacije,Heap
+Treba mi algoritam za pronalaženje top k najmanjih elemenata,Heap
+Kako da implementiram heap-based prioritet,Heap
+Želim da održavam sortiran skup sa brzim pristupom vrhu,Heap
+Moram da implementiram efikasno izvlačenje maksimuma,Heap
+Kako da organizujem podatke u kompletno binarno drvo,Heap
+Treba mi struktura sa heap property,Heap
+Želim da implementiram heapify od niza,Heap
+Kako da pronađem najmanji element u O(1) vremenu,Heap
+Moram da implementiram median finder,Heap
+Ekstremna vrednost,Heap
+Top K elemenata,Heap
+Parcijalno sortiranje,Heap
+Brzo izvlačenje minimuma,Heap
+Kako da nađem k najmanjih elemenata,Heap
+Moram da pronađem medijan u toku obrade,Heap
+Kako da pronađem k najvećih elemenata efikasno,Heap
+Moram da održavam min ili max dinamički,Heap
+Priority extraction,Heap
+Partial ordering,Heap
+Treba mi način da efikasno čuvam podatke u memoriji,
+Kako da organizujem kolekciju za brzo pronalaženje,
+Želim da implementiram strukturu koja održava poredak,
+Moram da pronađem optimalan način za skladištenje,
+Kako da efikasno pretražujem veliku količinu podataka,
+Treba mi metod za brzo dodavanje i brisanje elemenata,
+Želim da implementiram sistem za upravljanje zadacima,
+Kako da organizujem podatke za efikasan pristup,
+Moram da pronađem način da obrađujem sekvence,
+Treba mi struktura koja omogućava brz pristup elementima,
+Kako da implementiram kolekciju sa specifičnim pravilima,
+Želim da organizujem podatke za brzu manipulaciju,
+Moram da pronađem efikasan način za čuvanje veza,
+Kako da implementiram sistem za praćenje stanja,
+Treba mi način da održavam kolekciju sortiranu,
+Želim da implementiram strukturu sa dinamičkom veličinom,
+Kako da efikasno obrađujem hijerarhijske podatke,
+Moram da pronađem način za brzo ažuriranje vrednosti,
+Treba mi sistem za upravljanje prioritetima,
+Kako da implementiram kolekciju sa jedinstvenim elementima,
+Želim da organizujem podatke za intervalnu pretragu,
+Moram da pronađem efikasan način za povezivanje entiteta,
+Kako da implementiram strukturu za sekvencionalni pristup,
+Treba mi način za održavanje referencija između objekata,
+,Dijkstra
+,DFS
+,BFS
+,QuickSort
+,BinarySearch
+,DynamicProgramming
+,Backtracking
+,PriorityQueue
+,Set
+,Array
+,Queue
+,HashMap
+,Stack
+,Graph
+,SegmentTree
+,LinkedList
+,Heap
+,
