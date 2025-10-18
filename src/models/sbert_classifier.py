@@ -28,6 +28,7 @@ class SbertSklearnClassifier:
     def _embed(self, texts: List[str]) -> np.ndarray:
         self._ensure_model()
         cleaned = [clean_text_sbert(t) for t in texts]
+        # tokenizer + embedding
         embeddings = self._sbert.encode(cleaned, show_progress_bar=False, normalize_embeddings=True)
         return np.asarray(embeddings)
 
@@ -61,17 +62,19 @@ class SbertSklearnClassifier:
 
     def predict_proba(self, X: List[str]) -> np.ndarray:
         X_vec = self._embed(X)
+
+        # classifier has predict_proba (LogisticRegression)
         if hasattr(self._clf, "predict_proba"):
-            proba = self._clf.predict_proba(X_vec)
-            # For classifiers without predict_proba, approximate using decision_function if present
-            if hasattr(self._clf, "decision_function"):
-                scores = self._clf.decision_function(X_vec)
-                # Convert to pseudo-probabilities with softmax
-                exp_scores = np.exp(scores - np.max(scores, axis=1, keepdims=True))
-                proba = exp_scores / np.sum(exp_scores, axis=1, keepdims=True)
-            else:
-                raise AttributeError("Classifier does not support probability estimates")
-        return proba
+            return self._clf.predict_proba(X_vec)  # ← Poziva sklearn-ov predict_proba
+
+        # classifier has decision_function
+        elif hasattr(self._clf, "decision_function"):
+            scores = self._clf.decision_function(X_vec)
+            exp_scores = np.exp(scores - np.max(scores, axis=1, keepdims=True))
+            return exp_scores / np.sum(exp_scores, axis=1, keepdims=True)
+
+        else:
+            raise AttributeError("Classifier does not support probability estimates")
 
     def __getstate__(self) -> Dict[str, Any]:
         state = self.__dict__.copy()
