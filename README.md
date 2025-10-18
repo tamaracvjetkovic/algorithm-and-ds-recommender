@@ -2,6 +2,8 @@
 
 Tamara Cvjetkovic, SV48-2022
 
+---
+
 Uputstvo:
 
 - Za Mac/Linux:
