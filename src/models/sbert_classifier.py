@@ -65,7 +65,7 @@ class SbertSklearnClassifier:
 
         # classifier has predict_proba (LogisticRegression)
         if hasattr(self._clf, "predict_proba"):
-            return self._clf.predict_proba(X_vec)  # ← Poziva sklearn-ov predict_proba
+            return self._clf.predict_proba(X_vec)
 
         # classifier has decision_function
         elif hasattr(self._clf, "decision_function"):
