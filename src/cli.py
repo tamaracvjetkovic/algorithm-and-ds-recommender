@@ -35,8 +35,18 @@ def main():
 
     text = args.text
     pred = model.predict([text])[0]
-    print(f"\nUlaz: {text}\nPreporuka: {pred}")
+    print(f"\nUlaz: {text}\nPreporuka: {pred}\n")
 
+    try:
+        probas = model.predict_proba([text])
+
+        # top 3 preporuke
+        classes = model._le.classes_
+        top3_idx = probas[0].argsort()[-3:][::-1]
+        for idx in top3_idx:
+            print(f"{classes[idx]}: {probas[0][idx]*100:.1f}%")
+    except:
+        pass
 
 if __name__ == "__main__":
     main()
